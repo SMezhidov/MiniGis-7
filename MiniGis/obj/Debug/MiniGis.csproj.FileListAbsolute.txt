@@ -1,0 +1,66 @@
+C:\фото\гитарист\Pрогромирование\Геоинф\MiniGis\MiniGis\bin\Debug\MiniGis.exe.config
+C:\фото\гитарист\Pрогромирование\Геоинф\MiniGis\MiniGis\bin\Debug\MiniGis.exe
+C:\фото\гитарист\Pрогромирование\Геоинф\MiniGis\MiniGis\bin\Debug\MiniGis.pdb
+C:\фото\гитарист\Pрогромирование\Геоинф\MiniGis\MiniGis\obj\Debug\MiniGis.csprojAssemblyReference.cache
+C:\фото\гитарист\Pрогромирование\Геоинф\MiniGis\MiniGis\obj\Debug\MiniGis.Properties.Resources.resources
+C:\фото\гитарист\Pрогромирование\Геоинф\MiniGis\MiniGis\obj\Debug\MiniGis.csproj.GenerateResource.cache
+C:\фото\гитарист\Pрогромирование\Геоинф\MiniGis\MiniGis\obj\Debug\MiniGis.csproj.CoreCompileInputs.cache
+C:\фото\гитарист\Pрогромирование\Геоинф\MiniGis\MiniGis\obj\Debug\MiniGis.exe
+C:\фото\гитарист\Pрогромирование\Геоинф\MiniGis\MiniGis\obj\Debug\MiniGis.pdb
+C:\фото\гитарист\Pрогромирование\Геоинф\MiniGis\MiniGis\obj\Debug\MiniGis.MainForm.resources
+C:\фото\гитарист\Pрогромирование\Геоинф\MiniGis\MiniGis\obj\Debug\MiniGis.Core.Map.resources
+C:\Users\cereg\OneDrive\Рабочий стол\MiniGis\MiniGis\bin\Debug\MiniGis.exe.config
+C:\Users\cereg\OneDrive\Рабочий стол\MiniGis\MiniGis\bin\Debug\MiniGis.exe
+C:\Users\cereg\OneDrive\Рабочий стол\MiniGis\MiniGis\bin\Debug\MiniGis.pdb
+C:\Users\cereg\OneDrive\Рабочий стол\MiniGis\MiniGis\obj\Debug\MiniGis.csprojAssemblyReference.cache
+C:\Users\cereg\OneDrive\Рабочий стол\MiniGis\MiniGis\obj\Debug\MiniGis.Core.Map.resources
+C:\Users\cereg\OneDrive\Рабочий стол\MiniGis\MiniGis\obj\Debug\MiniGis.MainForm.resources
+C:\Users\cereg\OneDrive\Рабочий стол\MiniGis\MiniGis\obj\Debug\MiniGis.Properties.Resources.resources
+C:\Users\cereg\OneDrive\Рабочий стол\MiniGis\MiniGis\obj\Debug\MiniGis.csproj.GenerateResource.cache
+C:\Users\cereg\OneDrive\Рабочий стол\MiniGis\MiniGis\obj\Debug\MiniGis.csproj.CoreCompileInputs.cache
+C:\Users\cereg\OneDrive\Рабочий стол\MiniGis\MiniGis\obj\Debug\MiniGis.exe
+C:\Users\cereg\OneDrive\Рабочий стол\MiniGis\MiniGis\obj\Debug\MiniGis.pdb
+C:\Users\cereg\OneDrive\Рабочий стол\Новая папка\MiniGis\MiniGis\bin\Debug\MiniGis.exe.config
+C:\Users\cereg\OneDrive\Рабочий стол\Новая папка\MiniGis\MiniGis\bin\Debug\MiniGis.exe
+C:\Users\cereg\OneDrive\Рабочий стол\Новая папка\MiniGis\MiniGis\bin\Debug\MiniGis.pdb
+C:\Users\cereg\OneDrive\Рабочий стол\Новая папка\MiniGis\MiniGis\obj\Debug\MiniGis.csprojAssemblyReference.cache
+C:\Users\cereg\OneDrive\Рабочий стол\Новая папка\MiniGis\MiniGis\obj\Debug\MiniGis.Core.Map.resources
+C:\Users\cereg\OneDrive\Рабочий стол\Новая папка\MiniGis\MiniGis\obj\Debug\MiniGis.MainForm.resources
+C:\Users\cereg\OneDrive\Рабочий стол\Новая папка\MiniGis\MiniGis\obj\Debug\MiniGis.Properties.Resources.resources
+C:\Users\cereg\OneDrive\Рабочий стол\Новая папка\MiniGis\MiniGis\obj\Debug\MiniGis.csproj.GenerateResource.cache
+C:\Users\cereg\OneDrive\Рабочий стол\Новая папка\MiniGis\MiniGis\obj\Debug\MiniGis.csproj.CoreCompileInputs.cache
+C:\Users\cereg\OneDrive\Рабочий стол\Новая папка\MiniGis\MiniGis\obj\Debug\MiniGis.exe
+C:\Users\cereg\OneDrive\Рабочий стол\Новая папка\MiniGis\MiniGis\obj\Debug\MiniGis.pdb
+C:\Users\cereg\OneDrive\Рабочий стол\MiniGis 6\MiniGis\bin\Debug\MiniGis.exe.config
+C:\Users\cereg\OneDrive\Рабочий стол\MiniGis 6\MiniGis\bin\Debug\MiniGis.exe
+C:\Users\cereg\OneDrive\Рабочий стол\MiniGis 6\MiniGis\bin\Debug\MiniGis.pdb
+C:\Users\cereg\OneDrive\Рабочий стол\MiniGis 6\MiniGis\obj\Debug\MiniGis.csprojAssemblyReference.cache
+C:\Users\cereg\OneDrive\Рабочий стол\MiniGis 6\MiniGis\obj\Debug\MiniGis.Core.Map.resources
+C:\Users\cereg\OneDrive\Рабочий стол\MiniGis 6\MiniGis\obj\Debug\MiniGis.MainForm.resources
+C:\Users\cereg\OneDrive\Рабочий стол\MiniGis 6\MiniGis\obj\Debug\MiniGis.Properties.Resources.resources
+C:\Users\cereg\OneDrive\Рабочий стол\MiniGis 6\MiniGis\obj\Debug\MiniGis.csproj.GenerateResource.cache
+C:\Users\cereg\OneDrive\Рабочий стол\MiniGis 6\MiniGis\obj\Debug\MiniGis.csproj.CoreCompileInputs.cache
+C:\Users\cereg\OneDrive\Рабочий стол\MiniGis 6\MiniGis\obj\Debug\MiniGis.exe
+C:\Users\cereg\OneDrive\Рабочий стол\MiniGis 6\MiniGis\obj\Debug\MiniGis.pdb
+C:\Users\1\Desktop\Геоинформатика\MiniGis 7 (2)\MiniGis 7\MiniGis\bin\Debug\MiniGis.exe.config
+C:\Users\1\Desktop\Геоинформатика\MiniGis 7 (2)\MiniGis 7\MiniGis\bin\Debug\MiniGis.exe
+C:\Users\1\Desktop\Геоинформатика\MiniGis 7 (2)\MiniGis 7\MiniGis\bin\Debug\MiniGis.pdb
+C:\Users\1\Desktop\Геоинформатика\MiniGis 7 (2)\MiniGis 7\MiniGis\obj\Debug\MiniGis.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Геоинформатика\MiniGis 7 (2)\MiniGis 7\MiniGis\obj\Debug\MiniGis.Core.Map.resources
+C:\Users\1\Desktop\Геоинформатика\MiniGis 7 (2)\MiniGis 7\MiniGis\obj\Debug\MiniGis.MainForm.resources
+C:\Users\1\Desktop\Геоинформатика\MiniGis 7 (2)\MiniGis 7\MiniGis\obj\Debug\MiniGis.Properties.Resources.resources
+C:\Users\1\Desktop\Геоинформатика\MiniGis 7 (2)\MiniGis 7\MiniGis\obj\Debug\MiniGis.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Геоинформатика\MiniGis 7 (2)\MiniGis 7\MiniGis\obj\Debug\MiniGis.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Геоинформатика\MiniGis 7 (2)\MiniGis 7\MiniGis\obj\Debug\MiniGis.exe
+C:\Users\1\Desktop\Геоинформатика\MiniGis 7 (2)\MiniGis 7\MiniGis\obj\Debug\MiniGis.pdb
+C:\Users\cereg\OneDrive\Рабочий стол\Геоинформатика\MiniGis 7 (2)\MiniGis 7\MiniGis\bin\Debug\MiniGis.exe.config
+C:\Users\cereg\OneDrive\Рабочий стол\Геоинформатика\MiniGis 7 (2)\MiniGis 7\MiniGis\bin\Debug\MiniGis.exe
+C:\Users\cereg\OneDrive\Рабочий стол\Геоинформатика\MiniGis 7 (2)\MiniGis 7\MiniGis\bin\Debug\MiniGis.pdb
+C:\Users\cereg\OneDrive\Рабочий стол\Геоинформатика\MiniGis 7 (2)\MiniGis 7\MiniGis\obj\Debug\MiniGis.csprojAssemblyReference.cache
+C:\Users\cereg\OneDrive\Рабочий стол\Геоинформатика\MiniGis 7 (2)\MiniGis 7\MiniGis\obj\Debug\MiniGis.Core.Map.resources
+C:\Users\cereg\OneDrive\Рабочий стол\Геоинформатика\MiniGis 7 (2)\MiniGis 7\MiniGis\obj\Debug\MiniGis.MainForm.resources
+C:\Users\cereg\OneDrive\Рабочий стол\Геоинформатика\MiniGis 7 (2)\MiniGis 7\MiniGis\obj\Debug\MiniGis.Properties.Resources.resources
+C:\Users\cereg\OneDrive\Рабочий стол\Геоинформатика\MiniGis 7 (2)\MiniGis 7\MiniGis\obj\Debug\MiniGis.csproj.GenerateResource.cache
+C:\Users\cereg\OneDrive\Рабочий стол\Геоинформатика\MiniGis 7 (2)\MiniGis 7\MiniGis\obj\Debug\MiniGis.csproj.CoreCompileInputs.cache
+C:\Users\cereg\OneDrive\Рабочий стол\Геоинформатика\MiniGis 7 (2)\MiniGis 7\MiniGis\obj\Debug\MiniGis.exe
+C:\Users\cereg\OneDrive\Рабочий стол\Геоинформатика\MiniGis 7 (2)\MiniGis 7\MiniGis\obj\Debug\MiniGis.pdb
