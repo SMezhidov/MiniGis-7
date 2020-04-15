@@ -32,7 +32,19 @@ namespace MiniGis.Core
         }
      
         
+ public Brush OwnBrush
+        {
+            get;
+            set;
+        } = new SolidBrush(Color.White);
 
+
+        public Pen OwnPen
+        {
+            get;
+            set;
+        } = new Pen(Color.Black);
+        public bool Selected { get; set; }
         
        
         public bool Selected { get; set; }
