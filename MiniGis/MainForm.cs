@@ -202,5 +202,11 @@ namespace MiniGis
         {
 
         }
+        //Для начала colorDialog сделать
+          private void button2_Click(object sender, EventArgs e)
+        {
+            Color color = colorDialog1.Color;
+            MyMap.GetColor(color);
+        }
     }
 }
