@@ -351,6 +351,15 @@ namespace MiniGis.Core
 
             }
         }
+        //Метод, отвечающий за изменение цвета . Для примера я просто выбрал 3 элемент на карте
+         public void GetColor(Color color)
+        {
+
+            MapObject mapObject = _layers[0]._objects[2];
+            _layers[0]._objects[2].OwnPen = new Pen(color);
+            MapObject mapObject2 = _layers[0]._objects[2];
+            Invalidate();
+        }
 
 
         private void Map_MouseMove(object sender, MouseEventArgs e)
